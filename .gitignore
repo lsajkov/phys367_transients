@@ -1,0 +1,5 @@
+*.fits
+*.csv
+*.progress
+
+/lasair_cache
